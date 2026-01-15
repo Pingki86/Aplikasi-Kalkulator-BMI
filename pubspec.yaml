@@ -1,0 +1,39 @@
+name: bmi_kalkulator_pingki_uas
+description: "Aplikasi Kalkulator BMI untuk Tugas UAS."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' # Sesuaikan dengan versi SDK Flutter Anda
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # Package untuk otomatisasi icon aplikasi
+  flutter_launcher_icons: ^0.13.1
+
+# Konfigurasi Icon Aplikasi (Android, iOS, dan Web)
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  web:
+    generate: true
+    image_path: "assets/images/logo.png" # Pastikan file logo ada di folder ini
+    background_color: "#ffffff"
+    theme_color: "#ffffff"
+  image_path: "assets/images/logo.png"
+  min_sdk_android: 21 
+
+flutter:
+  uses-material-design: true
+
+  # Pastikan folder assets sudah didaftarkan agar gambar terbaca
+  assets:
+    - assets/images/
+    - assets/images/logo.png
