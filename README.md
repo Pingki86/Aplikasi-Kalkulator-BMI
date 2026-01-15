@@ -1,10 +1,10 @@
-APLIKASI KALKULATOR BMI
+## APLIKASI KALKULATOR BMI
 
 ## Untuk memenuhi tugas UTS dan UAS mata kuliah Pemrograman Bergerak
 ## Nama : Pingki Subaidah
 ## NIM : 2205101086
 
-## <img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/093c7f1e-0526-4d03-a646-0f782a228f36" />
+## <img width="350" height="350" alt="logo" src="https://github.com/user-attachments/assets/093c7f1e-0526-4d03-a646-0f782a228f36" />
 
 ## <img width="350" height="500" alt="ss4" src="https://github.com/user-attachments/assets/36983ec7-cd0f-40e9-83eb-52e0332a4fe8" />
 
