@@ -1,4 +1,11 @@
-# bmi_kalkulator_pingki_uas
+APLIKASI KALKULATOR BMI
+
+Untuk memenuhi tugas UTS dan UAS mata kuliah Pemrograman Bergerak
+Nama : Pingki Subaidah
+NIM : 2205101086
+
+![Beranda](assets/images/ss4.png)
+![Hasil](assets/images/ss2.png)
 
 A new Flutter project.
 
