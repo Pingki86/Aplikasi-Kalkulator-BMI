@@ -4,6 +4,8 @@ Untuk memenuhi tugas UTS dan UAS mata kuliah Pemrograman Bergerak
 Nama : Pingki Subaidah
 NIM : 2205101086
 
+<img width="746" height="884" alt="ss4" src="https://github.com/user-attachments/assets/36983ec7-cd0f-40e9-83eb-52e0332a4fe8" />
+
 ![Beranda](assets/images/ss4.png)
 ![Hasil](assets/images/ss2.png)
 
